@@ -1,1 +1,2 @@
-# Trex-game-using-JS.
+# PROC18-V3ColorfullTrex
+Colorful Trex
